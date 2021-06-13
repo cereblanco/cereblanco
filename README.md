@@ -1,6 +1,8 @@
-### Hello, kumusta? 👋
+#### Hello, kumusta? 👋
 
 I'm **Cere Blanco**, a Software Engineer based in Manila, Philippines. 🇵🇭
+
+#### About me
 
 - 🏡 Temporarily stuck at home, building data collection and annotation tools
 - 🍔 Patiently waiting for my food deliveries while working on my front-end/back-end tasks
